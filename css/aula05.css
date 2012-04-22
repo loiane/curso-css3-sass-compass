@@ -1,0 +1,37 @@
+/* line 13, ../sass/aula05.scss */
+.vermelho {
+  color: black;
+}
+
+/* line 17, ../sass/aula05.scss */
+.amarelo {
+  color: black;
+}
+
+/* line 21, ../sass/aula05.scss */
+.verde {
+  color: black;
+}
+
+/* line 25, ../sass/aula05.scss */
+.branco {
+  color: white;
+}
+
+/* line 29, ../sass/aula05.scss */
+.error {
+  font-color: white;
+  background-color: #abcdef;
+  width: 300px;
+  border: 1px black;
+}
+
+/* line 36, ../sass/aula05.scss */
+.selected {
+  border: 1px black solid;
+}
+
+/* line 40, ../sass/aula05.scss */
+.selected2 {
+  border: 1px black solid;
+}

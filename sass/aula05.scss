@@ -1,0 +1,42 @@
+$highlight-color: #000000;
+$width: 300px;
+$base-color: #ffffff;
+$background-color: #abcdef;
+$cor-vermelha: red;
+$cor-amarela: yellow;
+$cor-verde: black;
+
+$cor-branca: white;
+
+$highlight-border: 1px $highlight-color solid;
+
+.vermelho {
+	color: $cor-verde;
+}
+
+.amarelo {
+	color: $cor-verde;
+}
+
+.verde {
+	color: $cor-verde;
+}
+
+.branco {
+	color: $cor_branca;
+}
+
+.error {
+  font-color: $base-color;
+  background-color: $background-color;
+  width: $width;
+  border: 1px $highlight-color; 
+}
+
+.selected {
+  border: 1px $highlight-color solid;
+}
+
+.selected2 {
+  border: $highlight-border;
+}
