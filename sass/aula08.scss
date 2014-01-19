@@ -1,0 +1,20 @@
+@import "meus-mixins.scss";
+
+.noticia {
+  	background-color: green;
+  	border: 2px solid #00aa00;
+  	@include rounded-corners;
+}
+
+.headline {
+	font-size: 14px;
+	@include rounded-corners;
+}
+
+a {
+  @include link-colors(blue, red, green);
+}
+
+link {
+  @include link-colors2(blue, red);
+}

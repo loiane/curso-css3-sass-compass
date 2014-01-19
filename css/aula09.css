@@ -1,0 +1,14 @@
+/* line 1, ../sass/aula09.scss */
+.loud, .angry {
+  font-weight: bold;
+}
+
+/* line 5, ../sass/aula09.scss */
+.quiet {
+  font-weight: lighter;
+}
+
+/* line 9, ../sass/aula09.scss */
+.angry {
+  color: red;
+}

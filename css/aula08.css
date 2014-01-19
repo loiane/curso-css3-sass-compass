@@ -1,0 +1,42 @@
+/* line 3, ../sass/aula08.scss */
+.noticia {
+  background-color: green;
+  border: 2px solid #00aa00;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 9, ../sass/aula08.scss */
+.headline {
+  font-size: 14px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* line 14, ../sass/aula08.scss */
+a {
+  color: blue;
+}
+/* line 9, ../sass/meus-mixins.scss */
+a:hover {
+  color: red;
+}
+/* line 10, ../sass/meus-mixins.scss */
+a:visited {
+  color: green;
+}
+
+/* line 18, ../sass/aula08.scss */
+link {
+  color: blue;
+}
+/* line 15, ../sass/meus-mixins.scss */
+link:hover {
+  color: red;
+}
+/* line 16, ../sass/meus-mixins.scss */
+link:visited {
+  color: blue;
+}

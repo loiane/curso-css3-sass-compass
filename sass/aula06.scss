@@ -1,0 +1,31 @@
+nav {
+
+	border: 1px {
+		style: solid;
+		color: #ccc;
+		left: 0px;
+		right: 0px;
+	}
+
+
+	ul {
+		margin: 0;
+	    padding: 0;
+	    list-style: none;
+	    font: {
+	    	family: "Times New Roman", Times, serif;
+	    	style: italic;
+	    	size: 14px;
+	    }
+	}
+
+	li {
+		display: inline-block;
+	}
+
+	a {
+		display: block;
+	    padding: 6px 12px;
+	    text-decoration: none;
+	}
+}

@@ -1,0 +1,12 @@
+.loud  { 
+  font-weight: bold; 
+}
+
+.quiet { 
+  font-weight: lighter; 
+}
+
+.angry { 
+  @extend .loud; 
+  color: red; 
+}

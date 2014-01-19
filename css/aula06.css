@@ -1,0 +1,27 @@
+/* line 1, ../sass/aula06.scss */
+nav {
+  border: 1px;
+  border-style: solid;
+  border-color: #ccc;
+  border-left: 0px;
+  border-right: 0px;
+}
+/* line 11, ../sass/aula06.scss */
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "Times New Roman", Times, serif;
+  font-style: italic;
+  font-size: 14px;
+}
+/* line 22, ../sass/aula06.scss */
+nav li {
+  display: inline-block;
+}
+/* line 26, ../sass/aula06.scss */
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
